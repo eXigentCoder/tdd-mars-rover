@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^27.0.6"
+    "@types/jest": "^27.0.0",
+    "jest": "^27.0.6",
+    "sinon": "^11.1.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
